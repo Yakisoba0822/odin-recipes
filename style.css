@@ -1,0 +1,19 @@
+div {
+    color: black;
+    background-color: white;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+  }
+  
+  p {
+    color: red;
+  }
+
+main {
+    color: black;
+    text-align: center;
+}
+
+section {
+    text-align: center;
+}
